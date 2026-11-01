@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\CSHARP\FOR LOOP\FOR LOOP\bin\Debug\FOR LOOP.exe.config
+C:\Users\DELL\Desktop\CSHARP\FOR LOOP\FOR LOOP\bin\Debug\FOR LOOP.exe
+C:\Users\DELL\Desktop\CSHARP\FOR LOOP\FOR LOOP\bin\Debug\FOR LOOP.pdb
+C:\Users\DELL\Desktop\CSHARP\FOR LOOP\FOR LOOP\obj\Debug\FOR LOOP.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\CSHARP\FOR LOOP\FOR LOOP\obj\Debug\FOR LOOP.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\CSHARP\FOR LOOP\FOR LOOP\obj\Debug\FOR LOOP.exe
+C:\Users\DELL\Desktop\CSHARP\FOR LOOP\FOR LOOP\obj\Debug\FOR LOOP.pdb
